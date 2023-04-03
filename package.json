@@ -1,0 +1,14 @@
+{
+  "name": "pvy-ukol",
+  "version": "1.0.0",
+  "description": "zaznam teplot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vojtěch Šíma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
